@@ -1,0 +1,23 @@
+$brand-color: #b87333;
+$link-color: #333000;
+
+.about-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: white;
+  text-align: center;
+  position: relative;
+
+  background: url("../images/alerrian-design.jpg") center/cover no-repeat;
+  background-size: cover;
+
+  .about-body {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+}
