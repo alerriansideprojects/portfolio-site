@@ -20,6 +20,7 @@ $link-color: #333000;
     display: flex;
     justify-content: flex-start;
     align-items: center;
+    box-sizing: border-box;
 
     .brand-link {
       display: flex;
