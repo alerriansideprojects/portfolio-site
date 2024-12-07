@@ -7,7 +7,7 @@ export default function Footer() {
         <footer className="footer-container">
             <div className="visualizer-feature">
                 <AudioVisualizer className="h-24" />
-                {/* <AudioVisualizer className="h-24" /> */}
+                <AudioVisualizer className="h-24" />
             </div>
         </footer>
     );
