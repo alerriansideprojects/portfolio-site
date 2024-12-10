@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio-site/static/css/main.4df20f69.css",
+    "main.js": "/portfolio-site/static/js/main.8c745a9a.js",
+    "static/js/488.af104311.chunk.js": "/portfolio-site/static/js/488.af104311.chunk.js",
+    "static/media/alerrian-design.jpg": "/portfolio-site/static/media/alerrian-design.18f1ac3a0efe9773e757.jpg",
+    "static/media/alerrian-icon.jpg": "/portfolio-site/static/media/alerrian-icon.ffa23a59f3cb64ee4290.jpg",
+    "index.html": "/portfolio-site/index.html",
+    "main.4df20f69.css.map": "/portfolio-site/static/css/main.4df20f69.css.map",
+    "main.8c745a9a.js.map": "/portfolio-site/static/js/main.8c745a9a.js.map",
+    "488.af104311.chunk.js.map": "/portfolio-site/static/js/488.af104311.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4df20f69.css",
+    "static/js/main.8c745a9a.js"
+  ]
+}
