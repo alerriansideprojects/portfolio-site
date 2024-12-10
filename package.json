@@ -8,7 +8,7 @@
     "react-dom": "^19.0.0",
     "react-scripts": "^5.0.1"
   },
-  "homepage": "http://alerrian.github.io/portfolio-site",
+  "homepage": "https://saaprojects.github.io/portfolio-site/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
